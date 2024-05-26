@@ -3,13 +3,15 @@ _____________________________________________________________________________
 2. Control Flow Graph
 
    
-![CFG](https://github.com/hristoskamaja/SI_2024_lab2_223209/assets/129857198/c272415c-93f5-429a-a7af-c32c45077991)
+![CFG](https://github.com/hristoskamaja/SI_2024_lab2_223209/assets/129857198/28a85447-84cb-42fb-967c-512dcd435640)
+
 _____________________________________________________________________________
 3. Цикломатска комплексност
   Региони = Број на предикатни јазли + 1 = 9 + 1 =10
 _____________________________________________________________________________
 4. Тест случаи според критериумот Every statement
-   ![EveryBranch](https://github.com/hristoskamaja/SI_2024_lab2_223209/assets/129857198/3d95dac5-f5af-4a99-a5f0-fcca35e88f1b)
+  
+![EveryBranch](https://github.com/hristoskamaja/SI_2024_lab2_223209/assets/129857198/7a7ddafd-4fb7-4bc2-863b-3e063b1165e8)
 
    Тест Случај 1:
    Ќе фрли RuntimeException со порака "allItems list can't be null!"
@@ -23,7 +25,8 @@ _____________________________________________________________________________
 _____________________________________________________________________________
 5. Тест случаи според критериумот Multiple Condition
 
-![MultipleCondition](https://github.com/hristoskamaja/SI_2024_lab2_223209/assets/129857198/89ccdf4c-409d-4901-bd9f-3f448fa8a9db)
+![MultipleCondition](https://github.com/hristoskamaja/SI_2024_lab2_223209/assets/129857198/631efe13-f788-4828-af21-31233b162c71)
+
 
 Тест Случај 1: Сите услови се вистинити
 sum треба да се ажурира правилно со применетиот попуст.
